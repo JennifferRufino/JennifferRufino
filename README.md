@@ -1,6 +1,5 @@
 <h1 align = "center"> 💻 Hi 👋, I'm Jenniffer </h1> </hr>
-
-#### Student Science of computing. Front-end developer, focusing to learn JavaScript, React and others.
+<h2>Student Science of computing. Front-end developer, focusing to learn JavaScript, React and others.</h2>
 
 ![Jenniffer Rufino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennifferRufino&show_icons=true&theme=radical)
 
