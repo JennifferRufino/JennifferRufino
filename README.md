@@ -1,4 +1,4 @@
-### 💻 Hi 👋, I'm Jenniffer </hr>
+<h1 center> 💻 Hi 👋, I'm Jenniffer </h1> </hr>
 
 #### Student Science of computing. Front-end developer, focusing to learn JavaScript, React and others.
 
