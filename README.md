@@ -1,4 +1,4 @@
-### 💻 Jenniffer Rufino
+### 💻 Hi 👋, I'm Jenniffer </hr>
 
 #### Student Science of computing. Front-end developer, focusing to learn JavaScript, React and others.
 
