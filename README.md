@@ -1,4 +1,4 @@
-<h1 center> 💻 Hi 👋, I'm Jenniffer </h1> </hr>
+<h1 align = "center"> 💻 Hi 👋, I'm Jenniffer </h1> </hr>
 
 #### Student Science of computing. Front-end developer, focusing to learn JavaScript, React and others.
 
