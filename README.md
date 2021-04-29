@@ -8,7 +8,7 @@
 
 ![Jenniffer Rufino's GitHub stats](https://github-readme-stats.vercel.app/api?username=JennifferRufino&show_icons=true&theme=radical)
 
-[<code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" /></code>](linkedin.com/in/jenniffer-rufino-3323521ab)
+[<code><img height="30" src="https://img.icons8.com/color/48/000000/linkedin-logo.png" alt="linkedin" /></code>](linkedin.com/in/jenniffer-rufino-3323521ab)
 
 - Technologies I'm into:
 <code><img height="30" src="https://img.icons8.com/color/48/000000/java-coffee-cup-logo.png" alt="java" /></code>
